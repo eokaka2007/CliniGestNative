@@ -1,5 +1,11 @@
 {
   "expo": {
+    "name": "CliniGest",
+    "slug": "clinigest-native",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.troiton.clinigest"
+    },
     "extra": {
       "eas": {
         "projectId": "30bea6db-7cdd-459d-a407-0ced161adf48"
